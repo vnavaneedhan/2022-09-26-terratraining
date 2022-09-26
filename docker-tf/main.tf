@@ -1,3 +1,8 @@
+/*main.tf
+navaneedhan
+challenge01*/ 
+
+#terraform block
 terraform {
   required_providers {
     docker = {
