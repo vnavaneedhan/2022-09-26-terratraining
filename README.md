@@ -1,2 +1,2 @@
-# 2022-09-26-terratraining
-for training
+ 2022-09-26-terratraining
+for training,checking modifying
